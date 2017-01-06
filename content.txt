@@ -5,3 +5,5 @@ And now I have added more content.
 These changes are have happened recently on master.
 
 These changes are specific to branch2.
+
+This is new content for master.
