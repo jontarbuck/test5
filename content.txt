@@ -9,3 +9,5 @@ These changes are specific to branch2.
 This is new content for master.
 
 An more new content for master too.
+
+Changed in master.
